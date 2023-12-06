@@ -1,7 +1,7 @@
 # Simple ETL Using Python
 
 <p align="center">
-  <img src="Image/Extract.png" width=800 align="center">
+  <img src="Image/flow.png" width=800 align="center">
 </p>
 
 ## Introductions

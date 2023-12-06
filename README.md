@@ -4,15 +4,15 @@
 
 ## Extract
 <p align="center">
-  <img src="Images/Extract.png" width=800 align="center">
+  <img src="Image/Extract.png" width=800 align="center">
 </p>
 
 ## Transform
 <p align="center">
-  <img src="Images/transform.png" width=800 align="center">
+  <img src="Image/transform.png" width=800 align="center">
 </p>
 
 ## Load
 <p align="center">
-  <img src="Images/load.png" width=800 align="center">
+  <img src="Image/load.png" width=800 align="center">
 </p>

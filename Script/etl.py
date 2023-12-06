@@ -41,7 +41,7 @@ def load(data, tbl_name):
     url_postgres = URL.create(
         drivername="postgresql",
         username="postgres",
-        password="Pangrib14",  # plain (unescaped) text
+        password="Pangrib14",  
         host="localhost",
         port="5432",
         database="belajar")

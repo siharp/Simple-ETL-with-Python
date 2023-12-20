@@ -34,6 +34,7 @@ def transform(data):
     data.drop_duplicates(inplace=True)
     data.dropna(inplace=True)
     print("Data Succesfull Transform")
+    return data
  
 
 #load data to postgres
@@ -55,8 +56,8 @@ def load(data, tbl_name):
 
 if __name__ == "__main__":
     data = extract('rakamin_order')
-    transform(data)
-    load(data, 'rakamin_order_new')
+    data_transfrom =transform(data)
+    load(data_transfrom, 'rakamin_order_new')
     
     
 
